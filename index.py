@@ -99,7 +99,7 @@ class Payment:
         return ("The amount to pay "+name+" is: "+str(amount)+" USD")
     
 if __name__=="__main__":
-    out_file =  open("out.txt", "w")
+    out_file =  open("output.txt", "w")
     with open("input.txt") as file:
         for line in file:
             try:

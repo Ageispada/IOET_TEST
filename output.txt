@@ -1,4 +1,5 @@
 The amount to pay RENE is: 215 USD
 The amount to pay RENE is: 790 USD
+The amount to pay RENE is: 760 USD
 Invalid isoformat string: '20s:00'
 The amount to pay ASTRID is: 85 USD
