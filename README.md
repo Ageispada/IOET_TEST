@@ -18,7 +18,7 @@ IOET_TEST was made using python 3.7, requires *pytest* to run testing.
 Install the dependencies with *pip*.
 
 ```sh
-pip install to-requirements.txt
+pip install requirements.txt
 ```
 
 For production environments...
